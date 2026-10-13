@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-13T09:09:09.678Z",
+  "repo": {
+    "connectorId": 14,
+    "repoSlug": "nitik89/Education-Template",
+    "baseBranch": "main"
+  },
+  "team": {
+    "assetId": 1,
+    "displayId": "TM-1",
+    "name": "My Team"
+  },
+  "tree": [
+    {
+      "assetId": 18,
+      "displayId": "TC-9",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-9-New-test-case.spec.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 18,
+      "assetKind": "test-case",
+      "displayId": "TC-9",
+      "name": "New test case",
+      "repoPath": "TC-9-New-test-case.spec.ts",
+      "parentAssetId": 1
+    }
+  ]
+}
